@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "react": "16.8.6",
-    "react-dom": "16.8.6"
+    "react-dom": "16.8.6",
+    "styled-components": "^5.2.1"
   },
   "devDependencies": {
     "@storybook/react": "5.1.9",
